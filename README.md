@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=minhducfpl&label=Profile%20views&color=0e75b6&style=flat)
 
-## About Me
+# 💫 About Me:
 - 🌱 I’m currently learning **Mobile App Development at FPT Polytechnic**
 - 💬 Ask me about **UI/UX, React**
 - 📫 How to reach me: [duclm.fpl.work@gmail.com](mailto:duclm.fpl.work@gmail.com)
